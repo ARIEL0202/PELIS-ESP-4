@@ -2008,10 +2008,6 @@ https://dl.dropboxusercontent.com/s/2pkc54ncakpumg4/SalynPM-VALFT3-18p.mp4?dl=0
 https://dl.dropboxusercontent.com/s/n8r4p0vk12q2p7v/SalynPM-Wall.E.mp4?dl=0
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Zootopia (2016)
 https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",el guerrero samurai
 http://vod.tuxchannel.tv:80/peliculas/720/ruroni%20kenshin%20sai%20shusho%20the%20beginning%202021.mkv
@@ -2019,12 +2015,10 @@ http://vod.tuxchannel.tv:80/peliculas/720/ruroni%20kenshin%20sai%20shusho%20the%
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", la purga infinita hd sub
 http://hispanotv.net:8080/movie/SMARTTVC5/DCkfFqwjUq/44337.mp4
 
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",la calle del terror 2
 http://vod.tuxchannel.tv:80/peliculas/720/fear%20street%20part%20two%201978%202021.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", espiral
 http://vod.tuxchannel.tv:80/peliculas/720/spiral%20from%20the%20book%20of%20saw%202021.mkv
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",cyborg x
 http://tux-vod.dynu.com:80/peliculas/720/cyborg%20x.mkv
