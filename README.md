@@ -549,10 +549,6 @@ http://tux-vod.dynu.com:80/peliculas/720/the%20fate%20of%20the%20furious.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3MjU0NDA0OF5BMl5BanBnXkFtZTgwNTc0MTU3OTE@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2017",Angry Birds (2017)
 http://cecegeek@goo.gl/3KGMLf
-#EXTINF:-1 group-title="2017", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="2016", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2016",Batman vs Superman: El origen de la Justicia (2016)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Batman%2520v%2520Superman%2520Dawn%2520of%2520Justice%2520-%25202016.mp4
@@ -570,12 +566,6 @@ http://201.172.61.203:88/Peliculas/Febrero/Ben-Hur%202016%20HD%20%5b1080p%5d%20L
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2016",Deadpool (2016)
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
-
-#EXTINF:-1 group-title="2016", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="2015", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2015",Ant-Man (2015)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Ant-Man%2520-%25202015.mp4
@@ -595,10 +585,6 @@ http://goo.gl/3KGMLf
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2015",Intensamente (2015)
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
-#EXTINF:-1 group-title="2015", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRjMjg3ZTMtMTk4Yy00YjRhLWI4ZWQtM2JhYjZlNTViNWYzXkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="PELICULAS",Evangelion 1.0 You Are Not Alone (2007)
 https://archive.org/download/evangelion-3.0-1.0-thrice-upon-a-time/Rebuild%20of%20Evangelion/Evangelion%201.0%20You%20Are%20%28Not%29%20Alone.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQyMTM0NGQtNmIwNy00ZDRlLWFlZTItY2UyNmNkNDI2MGVlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Evangelion 2.0 You Can Not Advance (2009)
@@ -758,7 +744,6 @@ http://tux-vod.dynu.com:80/peliculas/720/cyborg.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwNDI5NDcyMV5BMl5BanBnXkFtZTcwMjg5OTcyMQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Herbie (2005)
 http://193.34.144.178/Bryan/Peliculas/Herbie%20Fully%20Loaded%20LAT.mp4
 
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Juez Dredd (2012)
 http://tux-vod.dynu.com/peliculas/720/dredd.mkv
 
@@ -840,12 +825,6 @@ http://201.172.61.81:85/peliculas/octubre/*Nosotros%20los%20Nobles.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGIxODNjM2YtZjA5Mi00MjA5LTk2YjItODE0OWI5NThjNTBmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Redada Asesina (2011)
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 
-#EXTINF:-1 group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg",Batman v Superman: Dawn of Justice (2016) [DUAL][4k]
 https://archive.org/download/tinaco_20210409/B4tm4n.v55up35m4n.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR1,0,100,148_.jpg",Forrest Gump (1994)[4K][DUAL]
@@ -874,34 +853,12 @@ https://archive.org/download/linux-09/LINUX08.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU1YmJjMGEtMjY4Yy00MTFlLWE3NTUtNzI3YjkwZTMxZjZmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_QL75_UX100_CR0,1,100,148_.jpg",Total Recall (1990)[4][DUAL]
 https://archive.org/download/ubuntuforum/LLAMADO-FINAL.mkv
 
-
-
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg0OGM1NWEtNDEwOC00OTE2LTliZWEtNzg1MTZkNjFlMmNhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Kong y la Isla  Calavera (2017)
 http://201.172.61.81:85/peliculas/4K/*Kong.La.Isla.Calavera.4K.mp4
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Un lugar en silencio (2018)
 https://lh3.googleusercontent.com/fDw7CruyBOYBx0VT4kFlT7nwkZr5oe-Z1PmrDVd43piCRUy0mQ68WHQIpciU-8AdZLtM_NZeHNwAVlDygWzqP_s7gPNP4P1bB55kBQfIL4e0R--0RZGCW5mFGnWzxoC1v-fXIkh3WMk=m37
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_QL75_UX100_CR0,0,100,148_.jpg",Soul (2020)
 https://archive.org/download/soul.-2020/Soul.2020.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_QL75_UY148_CR2,0,100,148_.jpg",CHICAS PESADAS (2004)
@@ -1029,29 +986,11 @@ https://archive.org/download/platillo/platillo.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZmYTgwZGItNDIxMS00MmRkLWEzODQtYTllNzM0ZWE1NmQ5XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_QL75_UX100_CR0,0,100,148_.jpg",X-Men: Dark Phoenix (2019) (Opción 2)
 https://archive.org/download/00300_201909/00300.mkv
 
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxMzYwODE4OV5BMl5BanBnXkFtZTgwNDE5MzE2MDE@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="PELICULAS",divergente (2014)
 http://player.lerload.xyz/streams/Ver%20La%20serie%20Divergente%20Insurgente%20(2015)%20Online%20Latino%20HD%20-.mp4
 
-
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGI2NTQ2N2EtNDExMS00OWM2LTkzZWItZGUzY2M2MDFjODk0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",101 dálmatas (1996)
 https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",increibles 2 (2018)
 http://193.34.144.178/Bryan/pelisdisney/increibles%201.mp4
