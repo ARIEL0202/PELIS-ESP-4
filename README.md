@@ -3454,19 +3454,12 @@ http://archive.org/download/6_20190711_20190711/7.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",MATILDA
 http://archive.org/download/12_20200212_202002/3x3l3n73.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",MATRIX
 http://www.mediafire.com/file/jntk3jju2ml24sm/M4TR1X.mp4/file
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",MATRIX RECARGADO
 http://www.mediafire.com/file/vl085yr5vw9sbkd/M4TR1X+R3C4RG4D0.mp4/file
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",MATRIX REVOLUCIÓN
 http://www.mediafire.com/file/n0ik0sfb6gobv6b/M4TR1X+R3V0LUC10N.mp4/file
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Max Payne SAGA 1x1 
 https://archive.org/download/03_20200831_20200831/M4x%20P49n3%20SAGA/01.mp4
