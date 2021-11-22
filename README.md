@@ -3428,8 +3428,7 @@ http://archive.org/download/img20200123224336/65U16i3aaX6i.mp4
 http://archive.org/download/img20200222wa0002/54n53b45714n.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",MADAGASCAR 3
 http://archive.org/download/img20200223153056_202002/5u54n4p3r3z.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Malefica                                                                                                                                        
-http://archive.org/download/m-4l-3f-1c-4.2014.480p/M4l3f1c4.2014.480p.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Malefica                                                                                                                         http://archive.org/download/m-4l-3f-1c-4.2014.480p/M4l3f1c4.2014.480p.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",MALEFICA 2 MAESTRA DEL MAL
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",MAQUINAS MORTALES
 http://ia601507.us.archive.org/11/items/000_20191203/3.mp4
