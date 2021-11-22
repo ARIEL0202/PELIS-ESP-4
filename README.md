@@ -2048,16 +2048,11 @@ http://player.lerload.xyz:80/movie/drama/Ver%20Animales%20nocturnos%20(2016)%20O
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",warcraft
 http://tux-vod.dynu.com:80/peliculas/720/warcraft.mkv
 
-
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",sin rastro
 http://vod.tuxchannel.tv:80/peliculas/720/the%20vanished%202020.mkv
 
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",escolta
 http://tux-vod.dynu.com:80/peliculas/720/close.mkv
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", libertad para morir
 http://201.172.61.203:88/Peliculas/Febrero/1990.Libertad.para.morir.mp4
@@ -2069,11 +2064,6 @@ http://tux-vod.dynu.com/peliculas/720/the%20cabin%20in%20the%20woods.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", loco por ella
 http://vod.tuxchannel.tv:80/peliculas/720/loco%20por%20ella%202021.mkv
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", interestelar
 http://movie.lerload.xyz/storage/streamable/videos/wNFTtd6nwJzquhqgINWCSOx5opcbSyjYAvT6I5Lz.m3u8
 
@@ -2082,25 +2072,11 @@ http://tux-vod.dynu.com/peliculas/720/jurassic%20world%20mundo%20jurasico.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",gigantes de Acero
 http://tv.iptv5latino.cl:8000/movie/jorge18/1234/61563.mkv
 
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",south park the pandemic
 http://vod.tuxchannel.tv/peliculas/720/south%20park%20the%20pandemic%20special%202020.mkv
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",el escape de auschwitz (2020)
 http://vod.tuxchannel.tv/peliculas/720/the%20escape%20from%20auschwitz%202020.mkv
-
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",las estafadoras
 https://storage.googleapis.com/tiotv/Peliculas/Ocean%E2%80%99s%208_las_estafadoras_(2018).mp4
@@ -2126,7 +2102,6 @@ http://tux-vod.dynu.com:80/peliculas/720/robocop%203.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", robocop 4
 http://tux-vod.dynu.com:80/peliculas/720/robocop%202014.mkv
 
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", las tortugas ninja
 http://201.172.61.203:88/Peliculas/Febrero/LasTortugasNinja2016.mp4
 
@@ -2140,8 +2115,6 @@ http://149.56.140.45:999/PELISSD/60__Minutos_Para_Morir__BluRay_Screener__Espano
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", Peter rabbit
 http://vod.tuxchannel.tv:80/peliculas/720/peter%20rabbit%202%20the%20runaway%202021.mkv
 
-
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",riesgo bajo cero
 http://iptv.tvxtremegold.com:25461/movie/SoloMovies/gI180zr5Py/36595.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", búsqueda implacable
@@ -2153,18 +2126,15 @@ http://iptv.tvxtremegold.com:25461/movie/SoloMovies/gI180zr5Py/35022.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", Hellboy
 http://player.lerload.xyz:80/movie/ciencia%20ficcion/Ver%20Hellboy%20(2019)%20Online%20Latino%20HD%20-%20PelisPlay.tv.mp4
 
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", duro de cuidar
 http://ww2.youmovieapp.online:80/stream/720/LEbQXTMOBro6GUw.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",the titans
 http://tux-vod.dynu.com:80/peliculas4k/wrath%20of%20the%20titans.mkv
 
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Sailor moun 2
 http://vod.tuxchannel.tv:80/peliculas/720/gekijouban%20bishojo%20senshi%20sailor%20moon%20eternal%20II%202021.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", Avalancha latino
 http://ww1.youmovieapp.online:80/stream/720/0YgzFvm9suiUsyq.mp4
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",una noche para sobreviv
 http://player.lerload.xyz:80/movie/Ver%20Una%20noche%20para%20sobrevivir%20Online%20(2015)%20RePelis24%20Gratis.mp4
@@ -2182,17 +2152,12 @@ http://tux-vod.dynu.com:80/peliculas/720/invancion%20del%20mundo%20batalla%20los
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",dawn the dead
 http://tux-vod.dynu.com:80/peliculas/720/dawn%20of%20the%20dead.mkv
 
-
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",sniper
 http://vod.tuxchannel.tv:80/peliculas/720/sniper%20assassins%20end%202020.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", Doraemon 2
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/stand%20by%20me%20doraemon%202%202020%20sub.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",la chica del tren
 http://vod.tuxchannel.tv:80/peliculas/720/the%20girl%20on%20the%20train%202021.mkv
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",alien vs depredador
 http://mataocio-cdn-7.mataocio-cdn7.workers.dev/Pack%25201/ALIEN%2520VS%2520DEPREDAROR%25202.mp4
@@ -2236,10 +2201,8 @@ http://etvhome.com:25461/movie/0105/1234/94837.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",monster hunter 2021
 http://etvhome.com:25461/movie/0105/1234/95374.mp4
 
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Rogue
 http://192.95.29.106:25461/movie/chio/chio/12246.mkv
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",año uno
 http://tux-vod.dynu.com/peliculas/720/the%20year%20one.mkv
@@ -2264,21 +2227,12 @@ http://latiniptv.vip:8008/movie/5956/5956/108923.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",huye
 http://tux-vod.dynu.com/peliculas/720/get%20out.mkv
 
-
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",la bruja de blair
 http://158.69.212.147:999/PELISSD/The.Blair.Witch.Project.1999.lati.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",el pasajero
 http://player.lerload.xyz/movie/accion/Ver%20El%20pasajero%20(2018)%20Online%20Latino%20HD%20-%20PelisPlay.tv.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",distrito 13
 http://tux-vod.dynu.com/peliculas/720/banlieue%2013.mkv
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Deaht race 1
 http://vod.tuxchannel.tv/peliculas/720/death%20race.mkv
@@ -2291,17 +2245,10 @@ http://vod.tuxchannel.tv/peliculas/720/under%20siege.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",alerta máxima 2
 http://vod.tuxchannel.tv/peliculas/720/under%20siege%202%20dark%20territory.mkv
 
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",santana
 http://vod.tuxchannel.tv/peliculas/720/santana%202020.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Superman hombre del mañana (2020)
 http://vod.tuxchannel.tv/peliculas/720/superman%20man%20of%20tomorrow%202020.mkv
-
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
 
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 
 https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
@@ -2344,16 +2291,7 @@ https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina   
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO   
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", Doraemon 2
 http://vod.tuxchannel.tv/peliculas/720/subtituladas/stand%20by%20me%20doraemon%202%202020%20sub.mkv
@@ -2365,25 +2303,13 @@ http://vod.tuxchannel.tv/peliculas/720/skylines%202020.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", venganza implacable
 http://vod.tuxchannel.tv/peliculas/720/honest%20thief%202020.mkv
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",play die
 http://tux-vod.dynu.com/peliculas/720/play%20or%20die%202019.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",al final del tunel
 http://tux-vod.dynu.com/peliculas/720/al%20final%20del%20tunel.mkv
 
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",el lago azul
 http://tux-vod.dynu.com/peliculas/720/el%20lago%20azul.mkv
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Parasitos
 http://tux-vod.dynu.com/peliculas/720/subtituladas/gisaengchung%202019%20sub.mkv
@@ -2391,7 +2317,6 @@ http://tux-vod.dynu.com/peliculas/720/subtituladas/gisaengchung%202019%20sub.mkv
 http://tux-vod.dynu.com/peliculas/720/zombie%20at%2017%202018.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", el poder del talismam
 http://tux-vod.dynu.com/peliculas/720/the%20medallion.mkv
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",el exorcista el comienzo
 http://tux-vod.dynu.com/peliculas/720/exorcist%20the%20beginning.mkv
@@ -2401,22 +2326,14 @@ http://tux-vod.dynu.com/peliculas/720/the%20exorcist%20III.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", picapiedras
 http://tux-vod.dynu.com/peliculas/720/the%20man%20called%20flintstone%201966.mkv
 
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",the edge of tomorrow
 http://tux-vod.dynu.com/peliculas/720/edge%20of%20tomorrow.mkv
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",codigo fuente
 http://tux-vod.dynu.com/peliculas/720/source%20code.mkv
 
-
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", Merlin
 http://tux-vod.dynu.com/peliculas/720/jigsaw.mkv
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",10 COSAS QUE ODIO DE TI
 http://archive.org/download/10_20200818_20200818/10.mp4
