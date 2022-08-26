@@ -1,16 +1,3 @@
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E01 (2021) Lat
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101601.2562201018.26264.10171510.13122.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E01 (2021) Sub
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101601.2562201018.26264.10171510.21222.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E02 (2021) Lat
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101602.2562201018.26264.10171510.13122.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E02 (2021) Sub
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101602.2562201018.26264.10171510.21222.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E03 (2021) Lat
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.13122.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E03 (2021) Sub
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222.mkv
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZiMjdlN2UtYzdiZS00YjgxLTgyZGMtYzE4ZGU5NTlkNjhhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Ghostbusters: Afterlife (2021) Cam
 https://ia601503.us.archive.org/7/items/89162122223212262021.1722620131076.2021.3114.13122/89162122223212262021.1722620131076.2021.3114.13122.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVkOTlhOTktNjZiNS00NDg3LWIxMDAtZTY5Y2E0YjllN2IxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Wrath of Man (2021) Lat
@@ -4191,24 +4178,29 @@ http://archive.org/download/Videoplayback1_20181013/videoplayback%20%281%29.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO III
 http://archive.org/download/07_20191209/hoiho/01.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Warcraft SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/W4rcr4ft%20SAGA/01.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Warcraft SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/W4rcr4ft%20SAGA/03%20-%20Pre%20WoW.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Warcraft SAGA 1x3 
-https://archive.org/download/03_20200831_20200831/W4rcr4ft%20SAGA/03%20Reign%20of%20Chaos.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Warcraft SAGA 1x4 
-https://archive.org/download/03_20200831_20200831/W4rcr4ft%20SAGA/03%20The%20Frozen%20Throne.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",WATCHMEN
-http://archive.org/download/009876/wachbu.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",WAYNES WORLD
-http://ia801507.us.archive.org/2/items/wayne_201812/wayne.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",WIFI RALF EL DEMOLEDOR
-http://archive.org/download/next-3/r4lfr0mp33l1n73rn37.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",WIFI RALPH (opc2)
-http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",WIFI RALPH (opc3)
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",WIFI RALPH 
 http://archive.org/download/yumikuw_mailprotech_W6/w6.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",X MEN APOCALYPSIS
+http://archive.org/download/07_20191209/hoiho/07.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",X MEN DARK PHOENIX
+http://archive.org/download/HN4FDXL/KNG7V_CQ_NBT8/1NJ2ABKT.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Y DONDE ESTAN LAS RUBIAS 
+http://ia801504.us.archive.org/33/items/YDELR/YDELR.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",YO ANTES DE TI
+http://archive.org/download/img-20200502-wa-0005/sjy04n735d371.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E01 (2021) Lat
+https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101601.2562201018.26264.10171510.13122.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E01 (2021) Sub
+https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101601.2562201018.26264.10171510.21222.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E02 (2021) Lat
+https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101602.2562201018.26264.10171510.13122.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E02 (2021) Sub
+https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101602.2562201018.26264.10171510.21222.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E03 (2021) Lat
+https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.13122.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E03 (2021) Sub
+https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222.mkv
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Wolfenstein SAGA 1x1 
 https://archive.org/download/03_20200831_20200831/W0lf3nst31n%20SAGA/02.mp4
@@ -4221,13 +4213,12 @@ https://archive.org/download/03_20200831_20200831/W0lf3nst31n%20SAGA/The%20Old%2
 https://archive.org/download/03_20200831_20200831/W0rld%200f%20W4rcr4ft%20L0r3/Historia%20completa%20de%20Arthas%20Menethil.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",World of Warcraft Lore SAGA 1x2 
 https://archive.org/download/03_20200831_20200831/W0rld%200f%20W4rcr4ft%20L0r3/Historia%20completa%20de%20Illidan%20Tempestira.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",X MEN APOCALYPSIS
-http://archive.org/download/07_20191209/hoiho/07.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",X MEN DARK PHOENIX
-http://archive.org/download/HN4FDXL/KNG7V_CQ_NBT8/1NJ2ABKT.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Y DONDE ESTAN LAS RUBIAS
-http://archive.org/download/N1G249AS10356543OLM/N1G249AS103563OLM.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Y DONDE ESTAN LAS RUBIAS (OPC2)
-http://ia801504.us.archive.org/33/items/YDELR/YDELR.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",YO ANTES DE TI
-http://archive.org/download/img-20200502-wa-0005/sjy04n735d371.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Warcraft SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/W4rcr4ft%20SAGA/01.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Warcraft SAGA 1x2 
+https://archive.org/download/03_20200831_20200831/W4rcr4ft%20SAGA/03%20-%20Pre%20WoW.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Warcraft SAGA 1x3 
+https://archive.org/download/03_20200831_20200831/W4rcr4ft%20SAGA/03%20Reign%20of%20Chaos.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Warcraft SAGA 1x4 
+https://archive.org/download/03_20200831_20200831/W4rcr4ft%20SAGA/03%20The%20Frozen%20Throne.mp4
