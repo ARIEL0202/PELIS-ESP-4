@@ -4225,17 +4225,9 @@ https://archive.org/download/03_20200831_20200831/W0rld%200f%20W4rcr4ft%20L0r3/H
 http://archive.org/download/07_20191209/hoiho/07.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",X MEN DARK PHOENIX
 http://archive.org/download/HN4FDXL/KNG7V_CQ_NBT8/1NJ2ABKT.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Y DONDE ESTA EL FANTASMA
-http://archive.org/download/5_20200328_20200328/7.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Y DONDE ESTAN LAS RUBIAS
 http://archive.org/download/N1G249AS10356543OLM/N1G249AS103563OLM.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Y DONDE ESTAN LAS RUBIAS (OPC2)
 http://ia801504.us.archive.org/33/items/YDELR/YDELR.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",YAKUZA APOCALYPSE  GOKUDO DAISENSO
-http://archive.org/download/01_20200321_20200321/Sub_p4ara_Str34m_AB8/01.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",YO ANTES DE TI
 http://archive.org/download/img-20200502-wa-0005/sjy04n735d371.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",YOUJO SENKI PELICULA
-http://archive.org/download/yjrwse4k5loi/yjrwse4k5loi.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",YOUR NAME
-http://archive.org/download/21anmlnxy0uln4me3103jpby/21ANmlNXy0ulN4me3103Jpby.mp4
