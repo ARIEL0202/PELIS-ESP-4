@@ -3862,13 +3862,11 @@ http://archive.org/download/skyline_202005/5k71in3.mp4
 http://archive.org/download/jxjfdjksldbdksksjxslsbs/jxjfdjksldbdksksjxslsbs.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",SON COMO NIÑOS 2
 http://archive.org/download/gdgddhdjsksjxbdjsbxnxbdjdcbdfbd/gdgddhdjsksjxbdjsbxnxbdjdcbdfbd.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SONIC 
-http://archive.org/download/18975639.jpg-r-1280-720-f-jpg-q-x-xxyxx/Sonic%20la%20pelicula.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",SONIC (AUD)
 http://archive.org/download/0_20200312_20200312/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",SONIC LA PELÍCULA
 http://archive.org/download/fabewey2/Sub1d0_p4r4_5tr34ming_A85_50n1c/1.mkv
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Sonic SAGA 1x1 
 https://archive.org/download/03_20200831_20200831/S0n1c%20SAGA/UNLEASHED.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Sonic SAGA 1x2 
@@ -3883,15 +3881,7 @@ https://archive.org/download/03_20200831_20200831/S0n1c%20SAGA/FORCES.mp4
 http://archive.org/download/w-17-fl-1-x/Hedg.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Sonic Unleashed - Night of The Werehog
 http://archive.org/download/w-17-fl-1-x/Were.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SOUTH PARK LA PELICULA (LATINO) 
-http://archive.org/download/sptm129el506sptm/SptM129EL506Aqwjm.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",South Park SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/S0uth%20P4rk%20SAGA/The%20Stick%20of%20Truth.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",South Park SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/S0uth%20P4rk%20SAGA/Retaguardia%20en%20Peligro.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SOY EL NUMERO 4
-http://archive.org/download/juan_18/Sub1d0_p4r4_5tr34ming_A85v4r1a52/24.avi
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",SPIDER MAN
 http://archive.org/download/playpause-3/p3l1cul45p1d3rm4n.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",SPIDER MAN LEJOS DE CASA
@@ -3906,70 +3896,38 @@ http://archive.org/download/07_20191209/hoiho/05.mp4
 http://archive.org/download/07_20191209/hoiho/03.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",SPIDERMAN HOMECOMING 
 http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/9.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SPIDERMAN HOMECOMING 
-http://www.mediafire.com/file/bqlgs9z0wro1zpd/SP1D3RM4N+H0M3C0M1NG+.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",SPIDERMAN LEJOS DE CASA
 http://archive.org/download/menu_20200716/5p1dt3rmh4nLh3j05%20d3C454.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SPIDERMAN UN  NUEVO UNIVERSO
-http://archive.org/download/sp-1d-3r-m-4n-un-nuev-0-un-1v-3rs-0/pelis%20animacion/Sp1d3r-M4n%20Un%20Nuev0%20Un1v3rs0.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",SPIDERMAN UN NUEVO UNIVERSO
 http://ia601408.us.archive.org/5/items/s3n_20190805/S3N.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Amazing Spider-Man SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/Th3%204m4z1ng%20Sp1d3r-M4n%20SAGA/01.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Amazing Spider-Man SAGA 1x2 
+https://archive.org/download/03_20200831_20200831/Th3%204m4z1ng%20Sp1d3r-M4n%20SAGA/02.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",SPIRIT CABALGANDO LIBRE UNA NAVIDAD
 http://archive.org/download/screenshot20200220052416_202002/N050nc0rr3c705.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Star Fox SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/St4r%20F0x%20SAGA/Battle%20for%20Atlas.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Star Fox Zero Comienza el combate
-http://archive.org/download/w-17-fl-1-x/StaZer.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS I LA AMENAZA FANTASMA
 http://archive.org/download/21m3amnlopswe11999m4d/21m3AMnLoPSW-E1-1999m4d.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS I LA AMENAZA FANTASMA
-http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20I%20-%20La%20Amenaza%20Fantasma%20(1999)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS II EL ATAQUE DE LOS CLONES
 http://archive.org/download/st-4-rw-4-rs-2/ST4RW4RS%202.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS II EL ATAQUE DE LOS CLONES
-http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20II%20-%20El%20Ataque%20De%20Los%20Clones%20(2002)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS III LA VENGANZA DE LOS SITH
-http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20III%20-%20La%20Venganza%20De%20Los%20Sith%20(2005)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS IV UNA NUEVA ESPERANZA
 http://archive.org/download/iv_20191229/IV.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS IV UNA NUEVA ESPERANZA
-http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20IV%20-%20Una%20nueva%20esperanza%20(1977)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS IX EL ASCENSO DE SKYWALKER
 http://archive.org/download/img20200209wa0001/myphoto.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS ROGUE ONE > UNA HISTORIA DE STAR WARS (OPC2 SOLO  MPLAYER)
 http://archive.org/download/img-20200514-222355/M15M0M3N79547R4V3Z.mp4
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Star Wars the Force Unleashed SAGA 1x1 
 https://archive.org/download/03_20200831_20200831/St4r%20W4rs%20th3%20F0rc3%20Unl34sh3d%20SAGA/02%20%28Lado%20Luminoso%29.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Star Wars the Force Unleashed SAGA 1x2 
 https://archive.org/download/03_20200831_20200831/St4r%20W4rs%20th3%20F0rc3%20Unl34sh3d%20SAGA/02%20%28Lado%20Oscuro%29.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS VEL IMPERIO CONTRAATACA
-http://archive.org/download/iv_20191229/V.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS VEL IMPERIO CONTRAATACA
-http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20V%20-%20El%20Imperio%20Contraataca%20(1980)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS VI
 http://archive.org/download/20200514-222634_202005/4pfrhhj35uhdk2h8fkvw89.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS VI
-http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20V%20-%20El%20Imperio%20Contraataca%20(1980)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS VII
 http://archive.org/download/4pj-685gjoj-24md-5gadf-46/4pj685gjoj24md5gadf46.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS VII
-http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20VII%20-%20El%20Despertar%20de%20la%20Fuerza%20(2015)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS: EPISODIO VIII LOS ULTIMOS JEDI
 http://archive.org/download/st-4-rw-4-r-l-0-ul-71-m-0-j-3-d-1320-p/ST4RW4R%24L0%24UL71M0%24J3D1320P.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",STAR WARS: EPISODIO VIII LOS ULTIMOS JEDI
-http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Los%20%c3%baltimos%20Jedi%20Online%20(2017)%20-%20REPELIS%20Pel%c3%adculas%20HD.MP4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",StarCraft SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/St4rCr4ft%20SAGA/01.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",StarCraft SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/St4rCr4ft%20SAGA/02%20Heart%20of%20the%20Swarm.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",StarCraft SAGA 1x3 
-https://archive.org/download/03_20200831_20200831/St4rCr4ft%20SAGA/02%20Legacy%20of%20the%20Void.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",StarCraft SAGA 1x4 
-https://archive.org/download/03_20200831_20200831/St4rCr4ft%20SAGA/02%20Wings%20of%20Liberty.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",StarCraft SAGA 1x5
-https://archive.org/download/03_20200831_20200831/St4rCr4ft%20SAGA/Brood%20War.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",STARGATE PUERTA ESTELAR
 http://ia801505.us.archive.org/24/items/st2rg2t3_201805/stargate.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",STARSHIP TROOPERS LA INVASION
@@ -3980,119 +3938,24 @@ http://archive.org/download/w-17-fl-1-x-1_202008/5tr337F1gh73r4.mp4
 http://archive.org/download/w-17-fl-1-x/Stre.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Street Fighter II - La Película
 http://archive.org/download/w-17-fl-1-x/StrII.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",STUART LITLE
-http://archive.org/download/screenshot20200224145047/5u54nsv3r.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",STUART LITTLE 3
-http://archive.org/download/wunsdr25fs/wunsdr25fs.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",SULLY: HAZAÑA EN EL HUDSON
 http://archive.org/download/566783i-8su-117637h-4z-4n-466673nn-3lhud-0njuggs/566783i8su117637h4z4%C3%B1466673nn3lhud0njuggs.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SUPER COOL
-http://archive.org/download/plkbhgfhnhfssksklkzxjxks/plkbhgfhnhfssksklkzxjxks.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Super Mario Bros La PELÍCULA
 http://archive.org/download/img-20200521-172454-hdr/4pru3b4d31n7r0.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Super Mario Bros, ¡¡Mision De Rescate de la Princesa Peach!! 1986
 http://archive.org/download/witflix_20200820/YA7ANA01.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Súper Smash Bros Braw! movie
-http://archive.org/download/00_20200826/CutscenesFullHD%20_.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Super Smash Bros. SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/Sup3r%20Sm4sh%20Br0s.%20SAGA/03.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Super Smash Bros. SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/Sup3r%20Sm4sh%20Br0s.%20SAGA/04.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Super Smash Bros. SAGA 1x3 
-https://archive.org/download/03_20200831_20200831/Sup3r%20Sm4sh%20Br0s.%20SAGA/05.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Super Smash Bros. SAGA 1x4 
-https://archive.org/download/03_20200831_20200831/Sup3r%20Sm4sh%20Br0s.%20SAGA/05%20DLC.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",SUPERMAN HIJO ROJO
 http://archive.org/download/5_20200304_20200304/6.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SUSPIRA 1977
-http://archive.org/download/suspiria.-1977angee-para-zoowoman.website_202006/Suspiria.1977angee_para%20zoowoman.website.ia.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SUSPIRA 2018 (SUBTITULADA)
-http://archive.org/download/su1_20200421/su1/su1.avi
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 1
-http://archive.org/download/14_20200828/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 2
-http://archive.org/download/14_20200828/2.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 3
-http://archive.org/download/14_20200828/3.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 4
-http://archive.org/download/14_20200828/4.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 5
-http://archive.org/download/14_20200828/5.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 6
-http://archive.org/download/14_20200828/6.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 7
-http://archive.org/download/14_20200828/7.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 8
-http://archive.org/download/14_20200828/8.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 9
-http://archive.org/download/14_20200828/9.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 10
-http://archive.org/download/14_20200828/10.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 11
-http://archive.org/download/14_20200828/11.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 12
-http://archive.org/download/14_20200828/12.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 13
-http://archive.org/download/14_20200828/13.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 14
-http://archive.org/download/14_20200828/14.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 15
-http://archive.org/download/14_20200828/15.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 16
-http://archive.org/download/14_20200828/16.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 17
-http://archive.org/download/14_20200828/17.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 18
-http://archive.org/download/14_20200828/18.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 19
-http://archive.org/download/14_20200828/19.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 20
-http://archive.org/download/14_20200828/20.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 21
-http://archive.org/download/14_20200828/21.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 22
-http://archive.org/download/14_20200828/22.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 23
-http://archive.org/download/14_20200828/23.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE 2 CAPITULO 24
-http://archive.org/download/14_20200828/24.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SWORD ART ONLINE MOVIE > ORDINAL SCALE
-http://archive.org/download/imagen-1_202005/2.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Sword art Online: Ordinal Scale
-http://ia601406.us.archive.org/19/items/1-s-23-a-45-o-67/1S23A45O67.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TAXI DERRAPE TOTAL
 http://archive.org/download/img20200409153743/5UB1D074X1.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TAXI DRIVER
 http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/9.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TED 2
-http://archive.org/download/PaqueteClinico1/Ted2PeliculaCompletaEnEspaolLatino-Youtube61465464645.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TEKKEN - La Pelicula
-http://archive.org/download/w-17-fl-1-x/TEKKa.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TERMINATOR 2
 http://archive.org/download/yassergonzalezwitflix/73RM1N470R2.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Terminator destino oscuro
-http://archive.org/download/birds.of.-prey.-2020.lati/d1/T3rm1n4t0r%20d3st1n0%200scur0.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Amazing Spider-Man SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/Th3%204m4z1ng%20Sp1d3r-M4n%20SAGA/01.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Amazing Spider-Man SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/Th3%204m4z1ng%20Sp1d3r-M4n%20SAGA/02.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Evil Within SAGA 1x1 
-https://archive.org/download/03_20200831_20200831/Th3%203v1l%20W1th1n%20SAGA/01.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Evil Within SAGA 1x2 
-https://archive.org/download/03_20200831_20200831/Th3%203v1l%20W1th1n%20SAGA/02.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Evil Within SAGA 1x3 
-https://archive.org/download/03_20200831_20200831/Th3%203v1l%20W1th1n%20SAGA/The%20Assignment%20y%20The%20Consequence%20DLC.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",THE GENTLEMAN (LOS CABALLEROS)
 http://archive.org/download/3_20200608_20200608_1702/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The King of Fighters - Another Day
-http://archive.org/download/w-17-fl-1-x/Day.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",THE LIGHTHOUSE (2019) (Subtitulada)
-http://archive.org/download/f1_20200421/f1/f1.avi
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",THE PUNISHER 2
 http://archive.org/download/1_20190828_20190828_1938/atte_sd_sdsad/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",THE WALL PINK FLOYD
@@ -4101,11 +3964,7 @@ http://archive.org/download/0_20200421_202004/2.mp4
 http://archive.org/download/0_20200424_20200424_1602/9.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TIEMPOS VIOLENTOS
 http://archive.org/download/0trece/2.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TITANES DEL PACIFICO
-http://archive.org/download/t-1t-4n-35-d-31-p-4c-1f-1c-0/t1t4n35%20d31%20p4c1f1c0.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TODO PODEROSO 
-http://archive.org/download/18092064327status5752751c537e4dd6a1fd54293b37e439_201912/todo%20poderoso.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TODO PODEROSO (OPC2)
 http://ia801404.us.archive.org/24/items/terugi_newairmail_14/14.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TOM Y JERRY LA PELICULA 
 http://archive.org/download/xmqp19tjml91xmqp/xmqp19tYjTmlP91xmqp.mp4
@@ -4115,35 +3974,19 @@ http://archive.org/download/01qomry3m2o0nakaj/01qoAtYjMryFd10naKAj.mp4
 http://archive.org/download/T81818M8787B87L544672p/T81818M8787B87L5446-72p.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TORTUGAS NINJA (2014)
 http://archive.org/download/3_20200510/2.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",tortugas ninja 2
-http://archive.org/download/tortugas2/tortugas2.avi
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TOY STORY 1
 http://archive.org/download/T12S1EJM224NQA4MN43KP6424/TS1EJM24MN43KP%296%28.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TOY STORY 2
 http://archive.org/download/xoye_2mailnext_3/wiimc/2.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Toy Story 3
-http://archive.org/download/to3_20200422/to3/to3.avi
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TOY STORY 4
 http://archive.org/download/t0y2t0r7/t0y2t0r7.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TRAINSPOTING
-http://archive.org/download/trainspotting_202007/Trainspotting.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TRANSFORMERS
 http://archive.org/download/west_000/TR4NSF0R.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TRASCENDER
 http://archive.org/download/001_20200825_20200825/001.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TRINITY SEVEN MOVIE ETERNITY LIBRARY TO ALCHEMIC GIRL
-http://archive.org/download/trn4df5hjkl/trn4df5hjkl.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TRINITY SEVEN PELICULA 2 TENKUU TOSHOKAN TO SHINKU NO MAOU
-http://archive.org/download/trvfd45ki7uhf/trvfd45ki7uhf.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TRON 1982
-http://archive.org/download/0_20200418_20200418/3.avi
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TRON EL LEGADO
 http://archive.org/download/0_20200407_20200407_0422/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TROPA DE HÉROES
-http://archive.org/download/w-17-fl-1-x-1/7r0p4d3h3r035.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",UN JEFE EN PAÑALES
-http://archive.org/download/img20200311225621/7h3b055b4byw3bdll471n0.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",UN JEFE EN PAÑALES (opc2)
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",UN JEFE EN PAÑALES 
 http://archive.org/download/t0y2t0r7/UNJ3F3ENP1%C3%91.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",UN LUGAR EN SILENCIO
 http://archive.org/download/1589595380068-1/1U64R%203N%2051L3NC10.mp4
@@ -4151,17 +3994,7 @@ http://archive.org/download/1589595380068-1/1U64R%203N%2051L3NC10.mp4
 http://archive.org/download/gh-5_20200902/Gh5.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",UN PRÍNCIPE EN NUEVA YORK
 http://archive.org/download/07_20191209/hoiho/06.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",UN SHOW MAS
-http://archive.org/download/0_20200404/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",UNA PAREJA EXPLOSIVA 3
-http://www.mediafire.com/file/cad0aupuq2tciob/UN4P4R3J43XPL0S1V43.mp4/file
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",UNA PELICULA DE HUEVOS
-http://archive.org/download/1map402los4huev05amnpl/1map402los4huev05AMnpl.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",VANILLA SKY
-http://archive.org/download/v-4n-1114-5ky/v4n1114%205ky.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",VECINOS INVASORES
-http://archive.org/download/lgfarorvcf_20191204/1234V56789.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",VECINOS INVASORES opc2
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",VECINOS INVASORES 
 http://archive.org/download/unknown_202003/v3c1n051nv450r35.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",VENDETTA 
 http://ia601507.us.archive.org/16/items/5_20191128_201911/6.mp4
@@ -4171,13 +4004,12 @@ http://archive.org/download/V32N2OW23K115/V32N2OW23K11%285%29.mp4
 http://archive.org/download/bere_20200719/V131.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",VIERNES 13 PARTE II (1981)
 http://archive.org/download/bere_20200719/V132.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO I (OPC2)
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO I 
 http://ia801507.us.archive.org/2/items/R3gR3S04LFvTvR01/R3gR3S0%204L%20FvTvR0%201.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO II
 http://archive.org/download/Videoplayback1_20181013/videoplayback%20%281%29.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",VOLVER AL FUTURO III
 http://archive.org/download/07_20191209/hoiho/01.mp4
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",WIFI RALPH 
 http://archive.org/download/yumikuw_mailprotech_W6/w6.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",X MEN APOCALYPSIS
@@ -4188,6 +4020,12 @@ http://archive.org/download/HN4FDXL/KNG7V_CQ_NBT8/1NJ2ABKT.mp4
 http://ia801504.us.archive.org/33/items/YDELR/YDELR.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",YO ANTES DE TI
 http://archive.org/download/img-20200502-wa-0005/sjy04n735d371.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The King of Fighters - Another Day
+http://archive.org/download/w-17-fl-1-x/Day.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Star Fox SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/St4r%20F0x%20SAGA/Battle%20for%20Atlas.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Star Fox Zero Comienza el combate
+http://archive.org/download/w-17-fl-1-x/StaZer.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E01 (2021) Lat
 https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101601.2562201018.26264.10171510.13122.mkv
@@ -4201,6 +4039,24 @@ https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.256220
 https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.13122.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E03 (2021) Sub
 https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",StarCraft SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/St4rCr4ft%20SAGA/01.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",StarCraft SAGA 1x2 
+https://archive.org/download/03_20200831_20200831/St4rCr4ft%20SAGA/02%20Heart%20of%20the%20Swarm.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",StarCraft SAGA 1x3 
+https://archive.org/download/03_20200831_20200831/St4rCr4ft%20SAGA/02%20Legacy%20of%20the%20Void.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",StarCraft SAGA 1x4 
+https://archive.org/download/03_20200831_20200831/St4rCr4ft%20SAGA/02%20Wings%20of%20Liberty.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",StarCraft SAGA 1x5
+https://archive.org/download/03_20200831_20200831/St4rCr4ft%20SAGA/Brood%20War.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Evil Within SAGA 1x1 
+https://archive.org/download/03_20200831_20200831/Th3%203v1l%20W1th1n%20SAGA/01.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Evil Within SAGA 1x2 
+https://archive.org/download/03_20200831_20200831/Th3%203v1l%20W1th1n%20SAGA/02.mp4
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Evil Within SAGA 1x3 
+https://archive.org/download/03_20200831_20200831/Th3%203v1l%20W1th1n%20SAGA/The%20Assignment%20y%20The%20Consequence%20DLC.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",Wolfenstein SAGA 1x1 
 https://archive.org/download/03_20200831_20200831/W0lf3nst31n%20SAGA/02.mp4
