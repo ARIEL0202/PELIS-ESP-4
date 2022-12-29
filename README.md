@@ -21,14 +21,6 @@ http://azplay.ddns.me:33200/movie/por/por123/30858.mkv
 http://azplay.ddns.me:33200/movie/por/por123/30859.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un partido decisivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFjiWhsBwgNg3Fyl3al4N3SXw9A.jpg" group-title="DRAMA",Un partido decisivo (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30860.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Formula 1: GP Italia Libres 1 (2020)" tvg-logo="https://i.ibb.co/0KLSmc5/alb-326x245.jpg" group-title="EVENTOS DEPORTIVOS",Formula 1: GP Italia Libres 1 (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Formula 1: GP Italia Libres 2 (2020)" tvg-logo="https://i.ibb.co/0KLSmc5/alb-326x245.jpg" group-title="EVENTOS DEPORTIVOS",Formula 1: GP Italia Libres 2 (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Formula 1: GP Italia Libres 3 (2020)" tvg-logo="https://i.ibb.co/0KLSmc5/alb-326x245.jpg" group-title="EVENTOS DEPORTIVOS",Formula 1: GP Italia Libres 3 (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Formula 1: GP Italia Clasificación (2020)" tvg-logo="https://i.ibb.co/xHFrsKh/italiapole-326x245.jpg" group-title="EVENTOS DEPORTIVOS",Formula 1: GP Italia Clasificación (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30891.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Les filles du soleil (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqTw92XzLd9UI30NLoEhqkI0I0b.jpg" group-title="DRAMA",Les filles du soleil (2018)
 http://azplay.ddns.me:33200/movie/por/por123/30892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="No soy tu mami (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY7M9XEAcD4xY2rKbGfiHMi2kTC.jpg" group-title="COMEDIA",No soy tu mami (2019)
