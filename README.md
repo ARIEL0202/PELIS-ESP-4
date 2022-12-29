@@ -33,8 +33,6 @@ http://azplay.ddns.me:33200/movie/por/por123/30895.mkv
 http://azplay.ddns.me:33200/movie/por/por123/30896.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un plan irresistible (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqBtcfftBHbsNHmDN3ppUmrlsUI.jpg" group-title="COMEDIA",Un plan irresistible (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30899.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Formula 1: GP Italia Carrera (2020)" tvg-logo="https://i.ibb.co/rdSmp9r/italiacarrera-326x245.jpg" group-title="EVENTOS DEPORTIVOS",Formula 1: GP Italia Carrera (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30905.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Barbie: Princess Adventure (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg" group-title="INFANTILES",Barbie: Princess Adventure (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30906.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cámara policial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akmjfKPlxBAdXi4G1TZOirty8Ia.jpg" group-title="TERROR",Cámara policial (2020)
