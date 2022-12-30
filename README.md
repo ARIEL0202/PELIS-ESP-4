@@ -1,12 +1,3 @@
-
-#EXTINF:-1 tvg-id="" tvg-name="Grand Isle (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mcXb3km7hZ8aJKpxxgnvvxt9gW.jpg" group-title="ACCION",Grand Isle (2019)
-http://azplay.ddns.me:33200/movie/por/por123/30848.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Human Capital (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcJOgtQjjcJpLw8UOBqNmfPthhm.jpg" group-title="DRAMA",Human Capital (2019)
-http://azplay.ddns.me:33200/movie/por/por123/30849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Greed (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZPmDFlVp1BSGQD4QCKHOwbXLfv.jpg" group-title="COMEDIA",Greed (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mulán (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd7ElSRYhN2CFqMcyH8rqrwLbd6.jpg" group-title="DRAMA",Mulán (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30852.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Burnt Orange Heresy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMLPA8rOSQwkCQGLvz6L3jasAIT.jpg" group-title="SUSPENSO",The Burnt Orange Heresy (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30853.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amor garantizado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K22JB6fZZLBuM0knfl8rs9Zoxg.jpg" group-title="COMEDIA",Amor garantizado (2020)
@@ -5633,3 +5624,10 @@ http://azplay.ddns.me:33200/movie/por/por123/55430.mkv
 http://azplay.ddns.me:33200/movie/por/por123/55431.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: El camino del agua (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHyB15bJiZKZUR6ZNgvcUxy9pVq.jpg" group-title="2022",Avatar: El camino del agua (2022)
 http://azplay.ddns.me:33200/movie/por/por123/55432.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Grand Isle (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mcXb3km7hZ8aJKpxxgnvvxt9gW.jpg" group-title="ACCION",Grand Isle (2019)
+http://azplay.ddns.me:33200/movie/por/por123/30848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Human Capital (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcJOgtQjjcJpLw8UOBqNmfPthhm.jpg" group-title="DRAMA",Human Capital (2019)
+http://azplay.ddns.me:33200/movie/por/por123/30849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulán (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd7ElSRYhN2CFqMcyH8rqrwLbd6.jpg" group-title="DRAMA",Mulán (2020)
+http://azplay.ddns.me:33200/movie/por/por123/30852.mkv
