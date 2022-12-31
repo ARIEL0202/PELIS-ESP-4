@@ -1,17 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="The Burnt Orange Heresy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMLPA8rOSQwkCQGLvz6L3jasAIT.jpg" group-title="SUSPENSO",The Burnt Orange Heresy (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30853.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor garantizado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K22JB6fZZLBuM0knfl8rs9Zoxg.jpg" group-title="COMEDIA",Amor garantizado (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Freaks: 3 superhéroes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slP4VYu9Bs0niFMzwchaQ7R9G69.jpg" group-title="DRAMA",Freaks: 3 superhéroes (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Estoy pensando en dejarlo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg" group-title="DRAMA",Estoy pensando en dejarlo (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Juego de espías (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg" group-title="COMEDIA",Juego de espías (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30858.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Escape from Auschwitz (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKvHADVyUclD1P3rjMlRCegiQaR.jpg" group-title="DRAMA",The Escape from Auschwitz (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30859.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un partido decisivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFjiWhsBwgNg3Fyl3al4N3SXw9A.jpg" group-title="DRAMA",Un partido decisivo (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30860.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Les filles du soleil (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqTw92XzLd9UI30NLoEhqkI0I0b.jpg" group-title="DRAMA",Les filles du soleil (2018)
 http://azplay.ddns.me:33200/movie/por/por123/30892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="No soy tu mami (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY7M9XEAcD4xY2rKbGfiHMi2kTC.jpg" group-title="COMEDIA",No soy tu mami (2019)
@@ -5631,3 +5617,5 @@ http://azplay.ddns.me:33200/movie/por/por123/30848.mkv
 http://azplay.ddns.me:33200/movie/por/por123/30849.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mulán (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd7ElSRYhN2CFqMcyH8rqrwLbd6.jpg" group-title="DRAMA",Mulán (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juego de espías (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg" group-title="COMEDIA",Juego de espías (2020)
+http://azplay.ddns.me:33200/movie/por/por123/30858.mkv
