@@ -2,24 +2,16 @@
 http://azplay.ddns.me:33200/movie/por/por123/30892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pledge (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eol8FnndIY8drMknjUnRCjYaIe.jpg" group-title="TERROR",Pledge (2019)
 http://azplay.ddns.me:33200/movie/por/por123/30894.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Day Shall Come (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNUHlL3w31dF1Iyp9knGOUkBkWa.jpg" group-title="COMEDIA",The Day Shall Come (2019)
-http://azplay.ddns.me:33200/movie/por/por123/30895.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El secreto: Atrévete a soñar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbFVIDA4qnGDT5zLxu3wCfYF8dJ.jpg" group-title="DRAMA",El secreto: Atrévete a soñar (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30896.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un plan irresistible (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqBtcfftBHbsNHmDN3ppUmrlsUI.jpg" group-title="COMEDIA",Un plan irresistible (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30899.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Barbie: Princess Adventure (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg" group-title="INFANTILES",Barbie: Princess Adventure (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30906.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Corazón loco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSwCLbElGgz7HzWEHwnSfQtP2OC.jpg" group-title="COMEDIA",Corazón loco (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30908.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Se busca papá (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCDqdYxkSIgSJYOTwXGWunquWxf.jpg" group-title="DRAMA",Se busca papá (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30909.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmGOSFUjCjWJ6ASxfCbCjEyamx.jpg" group-title="ACCION",Vivo (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30911.mkv
 #EXTINF:-1 tvg-id="" tvg-name="My Octopus Teacher (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u96gR99ZUtdmE3bAzASnjZqzioR.jpg" group-title="DOCUMENTALES",My Octopus Teacher (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30912.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guapis (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HvqVuCDcq6DTN2aAvOEOfgyzXi.jpg" group-title="DRAMA",Guapis (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30913.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Dilema De Las Redes Sociales (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VAXS2hbKwCKd3DEz57Cr6ch61s.jpg" group-title="DOCUMENTALES",El Dilema De Las Redes Sociales (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30914.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La noche de los desaparecidos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFjdf9UDNrs5mgSRokpCM0cUWv6.jpg" group-title="SUSPENSO",La noche de los desaparecidos (2015)
@@ -5617,3 +5609,5 @@ http://azplay.ddns.me:33200/movie/por/por123/30852.mkv
 http://azplay.ddns.me:33200/movie/por/por123/30858.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cámara policial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akmjfKPlxBAdXi4G1TZOirty8Ia.jpg" group-title="TERROR",Cámara policial (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corazón loco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSwCLbElGgz7HzWEHwnSfQtP2OC.jpg" group-title="COMEDIA",Corazón loco (2020)
+http://azplay.ddns.me:33200/movie/por/por123/30908.mkv
