@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="Les filles du soleil (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqTw92XzLd9UI30NLoEhqkI0I0b.jpg" group-title="DRAMA",Les filles du soleil (2018)
 http://azplay.ddns.me:33200/movie/por/por123/30892.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No soy tu mami (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY7M9XEAcD4xY2rKbGfiHMi2kTC.jpg" group-title="COMEDIA",No soy tu mami (2019)
-http://azplay.ddns.me:33200/movie/por/por123/30893.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pledge (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eol8FnndIY8drMknjUnRCjYaIe.jpg" group-title="TERROR",Pledge (2019)
 http://azplay.ddns.me:33200/movie/por/por123/30894.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Day Shall Come (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNUHlL3w31dF1Iyp9knGOUkBkWa.jpg" group-title="COMEDIA",The Day Shall Come (2019)
@@ -12,8 +10,6 @@ http://azplay.ddns.me:33200/movie/por/por123/30896.mkv
 http://azplay.ddns.me:33200/movie/por/por123/30899.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Barbie: Princess Adventure (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg" group-title="INFANTILES",Barbie: Princess Adventure (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30906.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cámara policial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akmjfKPlxBAdXi4G1TZOirty8Ia.jpg" group-title="TERROR",Cámara policial (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30907.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Corazón loco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSwCLbElGgz7HzWEHwnSfQtP2OC.jpg" group-title="COMEDIA",Corazón loco (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30908.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Se busca papá (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCDqdYxkSIgSJYOTwXGWunquWxf.jpg" group-title="DRAMA",Se busca papá (2020)
@@ -5619,3 +5615,5 @@ http://azplay.ddns.me:33200/movie/por/por123/30849.mkv
 http://azplay.ddns.me:33200/movie/por/por123/30852.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Juego de espías (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg" group-title="COMEDIA",Juego de espías (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cámara policial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akmjfKPlxBAdXi4G1TZOirty8Ia.jpg" group-title="TERROR",Cámara policial (2020)
+http://azplay.ddns.me:33200/movie/por/por123/30907.mkv
