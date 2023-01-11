@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="Barbie: Princess Adventure (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg" group-title="INFANTILES",Barbie: Princess Adventure (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30906.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmGOSFUjCjWJ6ASxfCbCjEyamx.jpg" group-title="ACCION",Vivo (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30911.mkv
 #EXTINF:-1 tvg-id="" tvg-name="My Octopus Teacher (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u96gR99ZUtdmE3bAzASnjZqzioR.jpg" group-title="DOCUMENTALES",My Octopus Teacher (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30912.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Dilema De Las Redes Sociales (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VAXS2hbKwCKd3DEz57Cr6ch61s.jpg" group-title="DOCUMENTALES",El Dilema De Las Redes Sociales (2020)
