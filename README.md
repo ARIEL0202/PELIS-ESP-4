@@ -1,11 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="Les filles du soleil (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqTw92XzLd9UI30NLoEhqkI0I0b.jpg" group-title="DRAMA",Les filles du soleil (2018)
-http://azplay.ddns.me:33200/movie/por/por123/30892.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pledge (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eol8FnndIY8drMknjUnRCjYaIe.jpg" group-title="TERROR",Pledge (2019)
-http://azplay.ddns.me:33200/movie/por/por123/30894.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El secreto: Atrévete a soñar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbFVIDA4qnGDT5zLxu3wCfYF8dJ.jpg" group-title="DRAMA",El secreto: Atrévete a soñar (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30896.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un plan irresistible (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqBtcfftBHbsNHmDN3ppUmrlsUI.jpg" group-title="COMEDIA",Un plan irresistible (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30899.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Barbie: Princess Adventure (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg" group-title="INFANTILES",Barbie: Princess Adventure (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30906.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmGOSFUjCjWJ6ASxfCbCjEyamx.jpg" group-title="ACCION",Vivo (2020)
@@ -5611,3 +5603,5 @@ http://azplay.ddns.me:33200/movie/por/por123/30858.mkv
 http://azplay.ddns.me:33200/movie/por/por123/30907.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Corazón loco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSwCLbElGgz7HzWEHwnSfQtP2OC.jpg" group-title="COMEDIA",Corazón loco (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un plan irresistible (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqBtcfftBHbsNHmDN3ppUmrlsUI.jpg" group-title="COMEDIA",Un plan irresistible (2020)
+http://azplay.ddns.me:33200/movie/por/por123/30899.mkv
