@@ -1,19 +1,13 @@
+#EXTINF:-1 tvg-id="" tvg-name="La noche de los desaparecidos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFjdf9UDNrs5mgSRokpCM0cUWv6.jpg" group-title="SUSPENSO",La noche de los desaparecidos (2015)
+http://azplay.ddns.me:33200/movie/por/por123/30928.mkv
 #EXTINF:-1 tvg-id="" tvg-name="My Octopus Teacher (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u96gR99ZUtdmE3bAzASnjZqzioR.jpg" group-title="DOCUMENTALES",My Octopus Teacher (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30912.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Dilema De Las Redes Sociales (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VAXS2hbKwCKd3DEz57Cr6ch61s.jpg" group-title="DOCUMENTALES",El Dilema De Las Redes Sociales (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30914.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La noche de los desaparecidos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFjdf9UDNrs5mgSRokpCM0cUWv6.jpg" group-title="SUSPENSO",La noche de los desaparecidos (2015)
-http://azplay.ddns.me:33200/movie/por/por123/30928.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El instituto junto a las Torres Gemelas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsUDDedFbjnq7rpcKdnY93hzK2l.jpg" group-title="DOCUMENTALES",El instituto junto a las Torres Gemelas (2019)
 http://azplay.ddns.me:33200/movie/por/por123/30929.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¿Qué pasó el 11 de Septiembre? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXe07NFdgvJ9vLV91oAPrqDBoqU.jpg" group-title="DOCUMENTALES",¿Qué pasó el 11 de Septiembre? (2019)
 http://azplay.ddns.me:33200/movie/por/por123/30930.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fin de siglo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPS1pNtv2LVcssR0nblqmqTUtvw.jpg" group-title="DRAMA",Fin de siglo (2019)
-http://azplay.ddns.me:33200/movie/por/por123/30931.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Get Duked! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b52nqFj5XrBNA7MhqcnENvFsHtx.jpg" group-title="COMEDIA",Get Duked! (2019)
-http://azplay.ddns.me:33200/movie/por/por123/30932.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Owners (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzFatNrw0lhKD5NxaU6zC7S2KjP.jpg" group-title="SUSPENSO",The Owners (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30933.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Lost Husband (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIYB3G0lCHfkENOqmSI9tkRlJ3F.jpg" group-title="DRAMA",The Lost Husband (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30934.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Como perros y gatos 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BgSWFMW2MJ0dT5metLzsRWO7IJ.jpg" group-title="COMEDIA",Como perros y gatos 3 (2020)
