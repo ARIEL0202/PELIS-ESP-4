@@ -8,18 +8,8 @@ http://azplay.ddns.me:33200/movie/por/por123/30914.mkv
 http://azplay.ddns.me:33200/movie/por/por123/30929.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¿Qué pasó el 11 de Septiembre? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXe07NFdgvJ9vLV91oAPrqDBoqU.jpg" group-title="DOCUMENTALES",¿Qué pasó el 11 de Septiembre? (2019)
 http://azplay.ddns.me:33200/movie/por/por123/30930.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Lost Husband (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIYB3G0lCHfkENOqmSI9tkRlJ3F.jpg" group-title="DRAMA",The Lost Husband (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30934.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Como perros y gatos 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BgSWFMW2MJ0dT5metLzsRWO7IJ.jpg" group-title="COMEDIA",Como perros y gatos 3 (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30936.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El diablo a todas horas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIw4e4ZRMznLj21mASBcXIUuOsN.jpg" group-title="DRAMA",El diablo a todas horas (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30937.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El practicante (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMPVewba1Y2VXXtoYry4peWb437.jpg" group-title="SUSPENSO",El practicante (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30938.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amulet (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEVyAkEkpwpfyx4oZMg22A8ivDI.jpg" group-title="TERROR",Amulet (2020)
-http://azplay.ddns.me:33200/movie/por/por123/30939.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Soltera codiciada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwCPpgJMV2FAqBRBif6ruSwdsvG.jpg" group-title="COMEDIA",Soltera codiciada (2018)
-http://azplay.ddns.me:33200/movie/por/por123/30960.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Jesus Rolls (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcPgoNrpbP7oK3kKit4TC7nRlMH.jpg" group-title="COMEDIA",The Jesus Rolls (2019)
 http://azplay.ddns.me:33200/movie/por/por123/30961.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Terapia  del  Amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afO5ZeX4B4FApUeZCciUw72JGN6.jpg" group-title="DRAMA",Terapia  del  Amor (2020)
@@ -5595,3 +5585,5 @@ http://azplay.ddns.me:33200/movie/por/por123/30907.mkv
 http://azplay.ddns.me:33200/movie/por/por123/30908.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un plan irresistible (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqBtcfftBHbsNHmDN3ppUmrlsUI.jpg" group-title="COMEDIA",Un plan irresistible (2020)
 http://azplay.ddns.me:33200/movie/por/por123/30899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El practicante (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMPVewba1Y2VXXtoYry4peWb437.jpg" group-title="SUSPENSO",El practicante (2020)
+http://azplay.ddns.me:33200/movie/por/por123/30938.mkv
