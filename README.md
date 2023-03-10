@@ -1,49 +1,8 @@
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Perdidos en el Ártico (2022)" tvg-logo="http://l3d.us:25461/images/7061465c2cdf87a1da7cd6dbb8c71192.jpg" group-title="VOD | LAS MAS VISTAS",Perdidos en el Ártico (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luz Negra (2022)" tvg-logo="http://l3d.us:25461/images/c85790a6be5a6d681b9d0671f36b52fb.jpg" group-title="VOD | LAS MAS VISTAS",Luz Negra (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: No Way Home (2022)" tvg-logo="http://l3d.us:25461/images/19ee0acacb8a7941d52f3b187a4de1aa.jpg" group-title="VOD | LAS MAS VISTAS",Spider-Man: No Way Home (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Adam (2022)" tvg-logo="http://l3d.us:25461/images/89faa2eb196e1980240894635f92a487.jpg" group-title="VOD | LAS MAS VISTAS",El Proyecto Adam (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Red (2022)" tvg-logo="http://l3d.us:25461/images/0de5176624a2b1f720563829a2411810.jpg" group-title="VOD | LAS MAS VISTAS",Red (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aguas Profundas (2022)" tvg-logo="http://l3d.us:25461/images/4a2b221d5edd4cc4ada399bce38d2a93.jpg" group-title="VOD | LAS MAS VISTAS",Aguas Profundas (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dog. Un viaje salvaje (2022)" tvg-logo="http://l3d.us:25461/images/745763d143cce1f74c8bffd5eb0de8b1.jpg" group-title="VOD | LAS MAS VISTAS",Dog. Un viaje salvaje (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doce en casa (2022)" tvg-logo="http://l3d.us:25461/images/ba00a12393b42e1089ccc8ebf263b497.jpg" group-title="VOD | LAS MAS VISTAS",Doce en casa (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scream (2022)" tvg-logo="http://l3d.us:25461/images/d771c49a51425801977c9e7859e2ff23.jpg" group-title="VOD | LAS MAS VISTAS",Scream (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sin respiro (2022)" tvg-logo="http://l3d.us:25461/images/a04466926c5a741142aed7839af0b154.jpg" group-title="VOD | LAS MAS VISTAS",Sin respiro (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desesperada (2022)" tvg-logo="http://l3d.us:25461/images/7aab4dd315ba9ccee2ff972872acdb86.jpg" group-title="VOD | LAS MAS VISTAS",Desesperada (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hotel Transilvania: Transformanía (2022)" tvg-logo="http://l3d.us:25461/images/a4ad997eaa00be165d6dc2ed9ed0c274.jpg" group-title="VOD | LAS MAS VISTAS",Hotel Transilvania: Transformanía (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095564.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La casa Gucci (2021)" tvg-logo="http://l3d.us:25461/images/6caf081839d72fbafe83ed031cea01ab.jpg" group-title="VOD | LAS MAS VISTAS",La casa Gucci (2021)
 http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sing 2: ¡Ven y canta de nuevo! (2021)" tvg-logo="http://l3d.us:25461/images/1e629dcb383b639af140feafa3577c24.jpg" group-title="VOD | LAS MAS VISTAS",Sing 2: ¡Ven y canta de nuevo! (2021)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095611.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Encanto (2021)" tvg-logo="http://l3d.us:25461/images/5e81bdbf5f738fd3f269d47564fd7169.jpg" group-title="VOD | LAS MAS VISTAS",Encanto (2021)
 http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2 (2019)" tvg-logo="http://l3d.us:25461/images/c2e5e933d9599365d1c86a631098b9c0.jpg" group-title="VOD | Cine Latino",No manches Frida 2 (2019)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096746.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No se aceptan devoluciones (2013)" tvg-logo="http://l3d.us:25461/images/485f40d272d75540b6277595873e7c68.jpg" group-title="VOD | Cine Latino",No se aceptan devoluciones (2013)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096747.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No sé si cortarme las venas o dejármelas largas (2013)" tvg-logo="http://l3d.us:25461/images/0295333fbe96b2f298fd17a43d614e62.jpg" group-title="VOD | Cine Latino",No sé si cortarme las venas o dejármelas largas (2013)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No te engañes corazón (1937)" tvg-logo="http://l3d.us:25461/images/f05829c0b3d2bab1003323ed15084042.jpg" group-title="VOD | Cine Latino",No te engañes corazón (1937)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noche de fuego (2021)" tvg-logo="http://l3d.us:25461/images/a6452bc24bb7f9027a15918e009762bb.jpg" group-title="VOD | Cine Latino",Noche de fuego (2021)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096750.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nosotros los nobles (2013)" tvg-logo="http://l3d.us:25461/images/b0f7d3272bdc6f07360d9ca85131ad14.jpg" group-title="VOD | Cine Latino",Nosotros los nobles (2013)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096751.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nosotros los pelados (1984)" tvg-logo="http://l3d.us:25461/images/dce33d64666d3533bd75f9676e6c62ca.jpg" group-title="VOD | Cine Latino",Nosotros los pelados (1984)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096752.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Nuevo Orden (2020)" tvg-logo="http://l3d.us:25461/images/32137aad83d5299315b93f75967fef78.jpg" group-title="VOD | Cine Latino",Nuevo Orden (2020)
 http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096753.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Obediencia Perfecta (2014)" tvg-logo="http://l3d.us:25461/images/584723341a4c694968d600b19601a961.jpg" group-title="VOD | Cine Latino",Obediencia Perfecta (2014)
@@ -8258,3 +8217,43 @@ http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2137404.mkv
 http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2137406.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No dormirás (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yFNtuh9DvtNeoj29QL0jFbB28mo.jpg" group-title="VOD | Terror",No dormirás (2018)
 http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2137407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdidos en el Ártico (2022)" tvg-logo="http://l3d.us:25461/images/7061465c2cdf87a1da7cd6dbb8c71192.jpg" group-title="VOD | LAS MAS VISTAS",Perdidos en el Ártico (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luz Negra (2022)" tvg-logo="http://l3d.us:25461/images/c85790a6be5a6d681b9d0671f36b52fb.jpg" group-title="VOD | LAS MAS VISTAS",Luz Negra (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: No Way Home (2022)" tvg-logo="http://l3d.us:25461/images/19ee0acacb8a7941d52f3b187a4de1aa.jpg" group-title="VOD | LAS MAS VISTAS",Spider-Man: No Way Home (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Adam (2022)" tvg-logo="http://l3d.us:25461/images/89faa2eb196e1980240894635f92a487.jpg" group-title="VOD | LAS MAS VISTAS",El Proyecto Adam (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red (2022)" tvg-logo="http://l3d.us:25461/images/0de5176624a2b1f720563829a2411810.jpg" group-title="VOD | LAS MAS VISTAS",Red (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aguas Profundas (2022)" tvg-logo="http://l3d.us:25461/images/4a2b221d5edd4cc4ada399bce38d2a93.jpg" group-title="VOD | LAS MAS VISTAS",Aguas Profundas (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dog. Un viaje salvaje (2022)" tvg-logo="http://l3d.us:25461/images/745763d143cce1f74c8bffd5eb0de8b1.jpg" group-title="VOD | LAS MAS VISTAS",Dog. Un viaje salvaje (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce en casa (2022)" tvg-logo="http://l3d.us:25461/images/ba00a12393b42e1089ccc8ebf263b497.jpg" group-title="VOD | LAS MAS VISTAS",Doce en casa (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream (2022)" tvg-logo="http://l3d.us:25461/images/d771c49a51425801977c9e7859e2ff23.jpg" group-title="VOD | LAS MAS VISTAS",Scream (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin respiro (2022)" tvg-logo="http://l3d.us:25461/images/a04466926c5a741142aed7839af0b154.jpg" group-title="VOD | LAS MAS VISTAS",Sin respiro (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desesperada (2022)" tvg-logo="http://l3d.us:25461/images/7aab4dd315ba9ccee2ff972872acdb86.jpg" group-title="VOD | LAS MAS VISTAS",Desesperada (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transilvania: Transformanía (2022)" tvg-logo="http://l3d.us:25461/images/a4ad997eaa00be165d6dc2ed9ed0c274.jpg" group-title="VOD | LAS MAS VISTAS",Hotel Transilvania: Transformanía (2022)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sing 2: ¡Ven y canta de nuevo! (2021)" tvg-logo="http://l3d.us:25461/images/1e629dcb383b639af140feafa3577c24.jpg" group-title="VOD | LAS MAS VISTAS",Sing 2: ¡Ven y canta de nuevo! (2021)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2 (2019)" tvg-logo="http://l3d.us:25461/images/c2e5e933d9599365d1c86a631098b9c0.jpg" group-title="VOD | Cine Latino",No manches Frida 2 (2019)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No se aceptan devoluciones (2013)" tvg-logo="http://l3d.us:25461/images/485f40d272d75540b6277595873e7c68.jpg" group-title="VOD | Cine Latino",No se aceptan devoluciones (2013)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No sé si cortarme las venas o dejármelas largas (2013)" tvg-logo="http://l3d.us:25461/images/0295333fbe96b2f298fd17a43d614e62.jpg" group-title="VOD | Cine Latino",No sé si cortarme las venas o dejármelas largas (2013)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No te engañes corazón (1937)" tvg-logo="http://l3d.us:25461/images/f05829c0b3d2bab1003323ed15084042.jpg" group-title="VOD | Cine Latino",No te engañes corazón (1937)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noche de fuego (2021)" tvg-logo="http://l3d.us:25461/images/a6452bc24bb7f9027a15918e009762bb.jpg" group-title="VOD | Cine Latino",Noche de fuego (2021)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nosotros los nobles (2013)" tvg-logo="http://l3d.us:25461/images/b0f7d3272bdc6f07360d9ca85131ad14.jpg" group-title="VOD | Cine Latino",Nosotros los nobles (2013)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nosotros los pelados (1984)" tvg-logo="http://l3d.us:25461/images/dce33d64666d3533bd75f9676e6c62ca.jpg" group-title="VOD | Cine Latino",Nosotros los pelados (1984)
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2096752.mkv
