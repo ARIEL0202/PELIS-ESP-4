@@ -8232,7 +8232,7 @@ http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095482.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dog. Un viaje salvaje (2022)" tvg-logo="http://l3d.us:25461/images/745763d143cce1f74c8bffd5eb0de8b1.jpg" group-title="VOD | LAS MAS VISTAS",Dog. Un viaje salvaje (2022)
 http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095483.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doce en casa (2022)" tvg-logo="http://l3d.us:25461/images/ba00a12393b42e1089ccc8ebf263b497.jpg" group-title="VOD | LAS MAS VISTAS",Doce en casa (2022)
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095489.mp4
+http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095489.mp4    
 #EXTINF:-1 tvg-id="" tvg-name="Scream (2022)" tvg-logo="http://l3d.us:25461/images/d771c49a51425801977c9e7859e2ff23.jpg" group-title="VOD | LAS MAS VISTAS",Scream (2022)
 http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2095505.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sin respiro (2022)" tvg-logo="http://l3d.us:25461/images/a04466926c5a741142aed7839af0b154.jpg" group-title="VOD | LAS MAS VISTAS",Sin respiro (2022)
