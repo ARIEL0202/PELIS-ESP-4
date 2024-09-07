@@ -6,7 +6,7 @@ http://833019594784146897.go30818.xyz:80/movie/mi601901/c@PKQwN3xwH/146897.mp4
 http://833019594784146898.go30818.xyz:80/movie/mi601901/c@PKQwN3xwH/146898.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A-X-L (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp1brl24LXGFU3JPFaDoljDONRz.jpg" group-title="VOD ESPAÑOL",A-X-L (2018)
 http://833019594784146899.go30818.xyz:80/movie/mi601901/c@PKQwN3xwH/146899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A.R.C.H.I.E. (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp1brl24LXGFU3JPFaDoljDONRz.jpg" group-title="VOD ESPAÑOL",A.R.C.H.I.E. (2017)
+#EXTINF:-1 tvg-id="" tvg-name="A.R.C.H.I.E. (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp1brl24LXGFU3JPFaDoljDONRz.jpg" group-title="VOD ESPAÑOL",A.R.C.H.I.E. (2017)       
 http://833019594784146900.go30818.xyz:80/movie/mi601901/c@PKQwN3xwH/146900.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A 47 metros 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp1brl24LXGFU3JPFaDoljDONRz.jpg" group-title="VOD ESPAÑOL",A 47 metros 2 (2019)
 http://833019594784146901.go30818.xyz:80/movie/mi601901/c@PKQwN3xwH/146901.mp4
